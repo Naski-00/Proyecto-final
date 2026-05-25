@@ -24,7 +24,7 @@ A continuación se listan los programas desarrollados. Puedes hacer clic en cada
 
 Si necesitas revisar los diagramas de flujo, pseudocódigos o los reportes de práctica en formato escrito, puedes descargar el documento completo aquí:
 
-* 📕 **Reporte Completo de Prácticas (1 al 7):** [Abrir Documento PDF](./docs/Practicas_1-7_documentadas.pdf)
+* 📕 **Reporte Completo de Prácticas (1 al 7):** [Abrir Documento PDF](./docs/Practias%201-7%20documentacion.pdf)
 
 ---
 [⬅️ Volver al Inicio](../README.md)
