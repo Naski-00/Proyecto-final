@@ -6,7 +6,7 @@
 
 ## 📊 Estado del Proyecto
 
-📌 **Progreso General:** ![Progreso](https://img.shields.io/badge/Progreso-6100%25-yellowgreen?style=for-the-badge&logo=github)
+📌 **Progreso General:** ![Progreso](https://img.shields.io/badge/Progreso-100%25-yellowgreen?style=for-the-badge&logo=github)
 ![Unidades Completadas](https://img.shields.io/badge/Unidades-6%20de%206-yellowgreen?style=for-the-badge)
 ![Entorno](https://img.shields.io/badge/Entorno-PSeInt%20%7C%20C-orange?style=for-the-badge)
 
