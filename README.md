@@ -18,7 +18,7 @@ A continuación se muestra la organización del contenido del curso de acuerdo c
 
 | Unidad | Descripción / Temario Oficial | Temas Clave | Estado | Enlace |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | **Introducción y conceptos básicos** | Conceptos básicos de algoritmia. | ✅ Completado | *(Teoría)* |
+| **01** | **Introducción y conceptos básicos** | Conceptos básicos de algoritmia. | ✅ Completado | [Ver Documentos](./Unidad_01) |
 | **02** | **Fundamentos de programación** | Operadores, tipos de datos y variables. | ✅ Completado | *(Teoría)* |
 | **03** | **Estructura de control: secuenciación** | Flujo secuencial, entrada/salida, fórmulas. | ✅ Completado | [Ver Prácticas](./Unidad_03) |
 | **04** | **Estructura de control selectiva** | Condicionales: simple, doble y múltiple. | ✅ Completado | [Ver Prácticas](./Unidad_04) |
