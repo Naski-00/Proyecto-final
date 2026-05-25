@@ -23,11 +23,11 @@ Las soluciones en código fuente de esta unidad se organizan en los siguientes s
 * **Enfoque:** Declaración de funciones sin devolución de datos (`void`) que ejecutan tareas, operaciones o impresiones de manera directa.
 * **Algoritmos:** Saludos personalizados y cálculo modular del área de figuras geométricas.
 
-### 🔄 [Bloque 2: Prácticas 38 a 41 — Funciones con Retorno](./codigos/38-42)
+### 🔄 [Bloque 2: Prácticas 38 a 41 — Funciones con Retorno](./codigos/38-41)
 * **Enfoque:** Diseño de funciones con tipo de dato específico que procesan argumentos de entrada y devuelven un resultado al punto de llamada utilizando la instrucción `return`.
 * **Algoritmos:** Evaluador de mayoría de edad, cálculo geométrico y el juego clásico de "Piedra, Papel o Tijera".
 
-### 🎛️ [Bloque 3: Prácticas 42 a 45 — Menús Modulares Integradores](./codigos/43-45)
+### 🎛️ [Bloque 3: Prácticas 42 a 45 — Menús Modulares Integradores](./codigos/42-45)
 * **Enfoque:** Arquitectura de software limpia. Modularización completa de menús interactivos donde cada opción del sistema invoca a una función especializada ajena al `main`.
 * **Algoritmos:** Menú de áreas, menú de conversión de unidades y el menú principal integrador del sistema.
 
