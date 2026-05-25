@@ -8,7 +8,7 @@ Esta unidad final aborda el paradigma de la **programación modular**. Se estudi
 
 Con base en las actividades de evaluación del bloque, se compilaron los siguientes documentos de soporte dentro de la carpeta `docs`:
 
-* 📄 **Conceptos de Programación Modular:** [Ver Apuntes Teóricos](./docs/Conceptos_funciones.pdf) — Definiciones sobre modularidad, anatomía de una función, prototipos y el ciclo de vida de las variables (locales y globales).
+* 📄 **Conceptos de Programación Modular:** [Ver Apuntes Teóricos](./docs/Definiciones.pdf) — Definiciones sobre modularidad, anatomía de una función, prototipos y el ciclo de vida de las variables (locales y globales).
 * 📄 **Bloque Funciones sin Retorno:** [Abrir Reporte Prácticas 34-37](./docs/Practicas_34-37_documentacion.pdf) — Documentación de funciones tipo `void` aplicadas a saludos interactivos y cálculos directos de áreas.
 * 📄 **Bloque Funciones con Retorno:** [Abrir Reporte Prácticas 38-41](./docs/Practicas_38-41_documentacion.pdf) — Análisis lógicos con paso de parámetros para procesar edades, áreas y el juego "Piedra, Papel o Tijera".
 * 📕 **Proyecto de Funciones Integradoras:** [Abrir Reporte Prácticas 42-45](./docs/Practicas_42-45_documentacion.pdf) — Reporte técnico del menú interactivo modularizado que unifica conversiones numéricas, calculadoras y áreas en funciones independientes.

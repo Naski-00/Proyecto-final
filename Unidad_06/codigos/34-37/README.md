@@ -1,15 +1,15 @@
-# 👤 Prácticas 34 a 37: Funciones sin Retorno de Valor (`void`)
+# 🔄 Prácticas 34 a 37: Introducción a Funciones en C
 
-Este bloque introduce los conceptos fundamentales de la programación modular en C a través de funciones que no regresan ningún valor. Se examina la sintaxis de los prototipos de función y la estructura de bloques independientes de ejecución.
+Este subdirectorio agrupa las soluciones lógicas que implementan el concepto de **modularización básica**, introduciendo el uso de funciones declaradas antes del bloque principal para fragmentar un problema complejo en subtareas específicas que no retornan valores.
 
 ## 💻 Catálogo de Códigos de Fuente
 
 | Archivo | Descripción / Objetivo del Programa |
 | :--- | :--- |
-| [💻 Practica34_saludo.c](./Practica34_saludo.c) | Algoritmo inicial que declara, define e invoca una función secundaria encargada de desplegar un mensaje de saludo dinámico en la consola. |
-| [💻 Practica35_Area_del_rectangulo.c](./Practica35_Area_del_rectangulo.c) | Programa que delega la captura de datos, la fórmula matemática y la impresión del área de un rectángulo a subprocesos funcionales de tipo `void`. |
-| [💻 Practica36_Validacion_de_edad.c](./Practica36_Validacion_de_edad.c) | Implementación de funciones vacías aplicadas al flujo modular del programa. |
-| [💻 Practica37_Area_de_un_rectangulo.c](./Practica37_Area_de_un_rectangulo.c) | Ejercicio práctico enfocado en comprender la transmisión estructural de parámetros. |
+| [💻 practica34_ejemplo_funcion.c](./practica34_ejemplo_funcion.c) | Ejemplo base introductorio que demuestra la sintaxis fundamental para declarar, definir e invocar una función modular simple. |
+| [💻 Practica35_promedio_de_5_cal.c](./Practica35_promedio_de_5_cal.c) | Algoritmo estructurado que utiliza una función dedicada para la captura y el cálculo aritmético del promedio de 5 calificaciones. |
+| [💻 Practica36_factorial_de_un_numero.c](./Practica36_factorial_de_un_numero.c) | Implementación matemática modular que procesa y despliega el factorial de un número entero positivo mediante un ciclo interno dentro de una función. |
+| [💻 Practica37_menu.c](./Practica37_menu.c) | Menú interactivo basado en consola que unifica y permite la ejecución selectiva de las prácticas lógicas desarrolladas en este bloque. |
 
 ---
 [⬅️ Subir a Unidad 6](../../README.md)

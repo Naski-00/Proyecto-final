@@ -1,15 +1,15 @@
-# 🎛️ Prácticas 42 a 45: Menús Integradores mediante Funciones Avanzadas
+# 📋 Prácticas 42 a 45: Prototipos de Funciones
 
-Este bloque final del curso representa la consolidación de los conocimientos del semestre. Consiste en reestructurar por completo los menús interactivos de las unidades pasadas, eliminando la saturación de código en la función `main` y delegando cada sub-menú y operación matemática a módulos independientes e interconectados.
+Este subdirectorio agrupa las soluciones lógicas enfocadas en las buenas prácticas de arquitectura y diseño de software en C. Se implementa el uso de **prototipos (firmas de funciones)** al inicio del archivo, permitiendo definir el cuerpo de los módulos debajo de la función principal `main`.
 
 ## 💻 Catálogo de Códigos de Fuente
 
 | Archivo | Descripción / Objetivo del Programa |
 | :--- | :--- |
-| [💻 Practica42_ejercicio_avanzado.c](./Practica42_ejercicio_avanzado.c) | Práctica de consolidación inicial del bloque sobre el manejo e integración de estados estructurados. |
-| [💻 Practica43_Menu_complejo_areas.c](./Practica43_Menu_complejo_areas.c) | Sistema modular que engloba el cálculo de diferentes figuras geométricas (cuadrado, triángulo, círculo) en funciones aisladas mapeadas desde un menú de selección. |
-| [💻 Practica44_Modulo_conversiones.c](./Practica44_Modulo_conversiones.c) | Módulo interactivo que aloja funciones de conversión numérica de unidades aritméticas y de datos, controladas de manera limpia mediante subprocesos. |
-| [💻 Practica45_Menu_maestro.c](./Practica45_Menu_maestro.c) | Programa maestro integrador. Presenta un menú de primer nivel que invoca de manera ordenada a las funciones principales de las prácticas anteriores, sirviendo como interfaz global del proyecto. |
+| [💻 Practica42_prototipo_de_funciones.c](./Practica42_prototipo_de_funciones.c) | Ejemplo técnico introductorio que ilustra la separación formal entre la declaración de la firma de una función y su posterior definición estructurada. |
+| [💻 Practica43_promedio_prototipos.c](./Practica43_promedio_prototipos.c) | Sistema de cálculo de promedios modularizado formalmente con prototipos de función, manteniendo la limpieza y legibilidad del punto de entrada del programa. |
+| [💻 Practica44_factorial_prototipo.c](./Practica44_factorial_prototipo.c) | Resolución del algoritmo de factorial aplicando la estructura estandarizada de pre-declaración de funciones antes del ámbito de `main`. |
+| [💻 Practica45_menu.c](./Practica45_menu.c) | Menú integrador estructurado formalmente mediante prototipos, garantizando una arquitectura de código limpia, escalable y alineada a los estándares de desarrollo en C. |
 
 ---
 [⬅️ Subir a Unidad 6](../../README.md)

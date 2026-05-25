@@ -1,15 +1,15 @@
-# 🔄 Prácticas 38 a 41: Funciones con Retorno de Valor y Paso de Parámetros
+# 📤 Prácticas 38 a 41: Funciones con Retorno de Datos
 
-Colección de programas dedicados al envío de datos hacia las funciones mediante el paso de argumentos por valor, procesando variables internamente para regresar un tipo de dato explícito (`int`, `float`, etc.) al bloque principal.
+Este subdirectorio agrupa las soluciones lógicas que evolucionan el concepto de modularidad mediante la implementación de la instrucción `return`. Se profundiza en funciones capaces de procesar parámetros y **devolver valores explícitos** al flujo principal `main`.
 
 ## 💻 Catálogo de Códigos de Fuente
 
 | Archivo | Descripción / Objetivo del Programa |
 | :--- | :--- |
-| [💻 Practica38_Juego.c](./Practica38_Juego.c) | Desarrollo interactivo modular del juego "Piedra, Papel o Tijera", estructurando las reglas de decisión, la elección de la CPU y la evaluación del ganador en funciones separadas. |
-| [💻 Practica39_Menu_de_areas.c](./Practica39_Menu_de_areas.c) | Funciones de cálculo geométrico con retorno de valor float/double. |
-| [💻 Practica40_Menu_de_conversiones.c](./Practica40_Menu_de_conversiones.c) | Procesamiento modularizado de conversiones numéricas devolviendo datos procesados. |
-| [💻 Practica41_Menu_general.c](./Practica41_Menu_general.c) | Interconexión de llamadas múltiples evaluando los retornos de subprocesos. |
+| [💻 Practica38_ejemplo_funcion_con_salida_de_datos.c](./Practica38_ejemplo_funcion_con_salida_de_datos.c) | Ejemplo base que demuestra el flujo de transferencia de control y la captura en variables de los datos devueltos por una función con retorno. |
+| [💻 Practica39_promedio_de_cal.c](./Practica39_promedio_de_cal.c) | Optimización del sistema de calificaciones, donde la función calcula el promedio ponderado y retorna el resultado flotante al ámbito principal. |
+| [💻 Practica40_fact_de_un_numero.c](./Practica40_fact_de_un_numero.c) | Algoritmo matemático optimizado que calcula el factorial de un número y delega el manejo y despliegue del resultado final a la función `main` mediante un retorno de datos. |
+| [💻 Practica41_menu.c](./Practica41_menu.c) | Menú de control interactivo actualizado que integra las versiones optimizadas de las prácticas del bloque empleando comunicación bidireccional por retorno. |
 
 ---
 [⬅️ Subir a Unidad 6](../../README.md)
