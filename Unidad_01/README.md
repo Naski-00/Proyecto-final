@@ -8,7 +8,7 @@ Esta sección del proyecto comprende los fundamentos teóricos iniciales de la c
 
 Puedes hacer clic en cada uno de los siguientes enlaces para abrir la documentación teórica oficial correspondiente a esta unidad:
 
-* 📄 **Tema 1:** [Computadora y lenguajes de una computadora](./docs/Computadora_y_lenguajes_de_computadora.pdf)
+* 📄 **Tema 1:** [Computadora y lenguajes de una computadora](./docs/a.pdf)
 * 📄 **Tema 2:** [Conversiones de Sistemas Numéricos](./docs/Conversiones.pdf)
 * 📄 **Tema 3:** [Definición de Algoritmo](./docs/Algoritmo.pdf)
 * 📄 **Tema 4:** [Principios de Programación Estructurada](./docs/Programacion_estructurada.pdf)
