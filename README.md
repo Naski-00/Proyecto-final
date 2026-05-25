@@ -6,41 +6,42 @@
 
 ## 📊 Estado del Proyecto
 
-📌 **Progreso General:** ![Progreso](https://img.shields.io/badge/Progreso-25%25-blue?style=for-the-badge&logo=github)
-![Unidades Completadas](https://img.shields.io/badge/Unidades-1%20de%204-green?style=for-the-badge)
+📌 **Progreso General:** ![Progreso](https://img.shields.io/badge/Progreso-66%25-yellowgreen?style=for-the-badge&logo=github)
+![Unidades Completadas](https://img.shields.io/badge/Unidades-4%20de%206-yellowgreen?style=for-the-badge)
 ![Entorno](https://img.shields.io/badge/Entorno-PSeInt%20%7C%20C-orange?style=for-the-badge)
 
 ---
 
 ## 🗺️ Estructura del Plan de Trabajo
 
-A continuación se muestra la organización del contenido del curso y el estado actual de cada entrega:
+A continuación se muestra la organización del contenido del curso de acuerdo con el temario oficial y las carpetas del repositorio:
 
-| Unidad | Descripción | Temas Clave | Estado | Enlace |
+| Unidad | Descripción / Temario Oficial | Temas Clave | Estado | Enlace |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | **Introducción y Lógica** | Pseudocódigo, diagramas de flujo, estructuras secuenciales. | ✅ Completado | [Ver Prácticas](./Unidad_01) |
-| **02** | *Por definir* | Estructuras condicionales (si-entonces, según). | ⏳ Pendiente | ❌ |
-| **03** | *Por definir* | Estructuras repetitivas (bucles para, mientras, repetir). | ⏳ Pendiente | ❌ |
-| **04** | *Por definir* | Funciones, arreglos (vectores y matrices). | ⏳ Pendiente | ❌ |
+| **01** | **Introducción y conceptos básicos** | Conceptos básicos de algoritmia. | ✅ Completado | *(Teoría)* |
+| **02** | **Fundamentos de programación** | Operadores, tipos de datos y variables. | ✅ Completado | *(Teoría)* |
+| **03** | **Estructura de control: secuenciación** | Flujo secuencial, entrada/salida, fórmulas. | ✅ Completado | [Ver Prácticas](./Unidad_03) |
+| **04** | **Estructura de control selectiva** | Condicionales: simple, doble y múltiple. | ✅ Completado | [Ver Prácticas](./Unidad_04) |
+| **05** | **Estructura de control repetición** | Bucles: mientras, hacer-mientras, para. | ⏳ Pendiente | ❌ |
+| **06** | **Manejo de funciones** | Modularidad: funciones sin y con retorno. | ⏳ Pendiente | ❌ |
 
 ---
 
-## 📁 Contenido de la Unidad 01: Introducción a la Lógica
+## 📁 Detalle de los Bloques de Código de la Unidad 03 y 04
 
-En esta primera sección se sientan las bases del pensamiento algorítmico, traduciendo problemas cotidianos a lógica formal mediante pseudocódigo estructurado y su posterior implementación.
+### 💻 Unidad 3 (Secuenciación)
+Ubicada en la carpeta `Unidad_03`. Contiene las primeras 7 prácticas enfocadas en operaciones aritméticas directas y asignaciones.
 
-### 💻 Ejemplo de Práctica Destacada
-Para mantener un estándar de código limpio y autodocumentado, las soluciones se estructuran de la siguiente manera:
+### 🔀 Unidad 4 (Selectivas)
+Ubicada en la carpeta `Unidad_04`. Contiene las prácticas de la 8 a la 12, enfocadas en la toma de decisiones en lenguaje C empleando bloques `if`, `else if` y `else`.
 
-#### En Pseudocódigo (PSeInt)
-```algoritmo
-Algoritmo CalcularPromedio
-    Definir nota1, nota2, nota3, promedio Como Real
-    
-    Escribir "Ingrese las tres calificaciones:"
-    Leer nota1, nota2, nota3
-    
-    promedio <- (nota1 + nota2 + nota3) / 3
-    
-    Escribir "El promedio final es: ", promedio
-FinAlgoritmo
+---
+
+## 🛠️ Herramientas Utilizadas
+
+* **PSeInt:** Para el desarrollo de la lógica inicial y pseudocódigo.
+* **GCC / MinGW:** Para la compilación y ejecución de código en C.
+* **Git & GitHub:** Control de versiones y despliegue continuo en GitHub Pages.
+
+---
+💡 *Nota: Las carpetas correspondientes a las unidades 5 y 6 se añadirán al repositorio con su respectiva documentación en cuanto se liberen los bloques prácticos.*

@@ -1,4 +1,4 @@
-# 📁 Unidad 1: Introducción a la Lógica y Estructuras Secuenciales
+# 📁 Unidad 3: Estructura de control secuenciación
 
 En esta unidad se desarrollaron los primeros algoritmos utilizando el lenguaje de programación C, enfocándose en la entrada y salida de datos, operaciones aritméticas y expresiones matemáticas básicas.
 
