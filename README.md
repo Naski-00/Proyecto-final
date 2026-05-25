@@ -22,21 +22,10 @@ A continuación se muestra la organización del contenido del curso de acuerdo c
 | **02** | **Fundamentos de programación** | Operadores, tipos de datos y variables. | ✅ Completado | [Ver Documentos](./Unidad_02) |
 | **03** | **Estructura de control: secuenciación** | Flujo secuencial, entrada/salida, fórmulas. | ✅ Completado | [Ver Prácticas](./Unidad_03) |
 | **04** | **Estructura de control selectiva** | Condicionales: simple, doble y múltiple. | ✅ Completado | [Ver Prácticas](./Unidad_04) |
-| **05** | **Estructura de control repetición** | Bucles: mientras, hacer-mientras, para. | ⏳ Pendiente | ❌ |
-| **06** | **Manejo de funciones** | Modularidad: funciones sin y con retorno. | ⏳ Pendiente | ❌ |
+| **05** | **Estructura de control repetición** | Bucles: mientras, hacer-mientras, para. | ✅ Completado | [Ver Prácticas](./Unidad_05) |
+| **06** | **Manejo de funciones** | Modularidad: funciones sin y con retorno. | ✅ Completado | [Ver Prácticas](./Unidad_06) |
 
 ---
-
-## 📁 Detalle de los Bloques de Código de la Unidad 03 y 04
-
-### 💻 Unidad 3 (Secuenciación)
-Ubicada en la carpeta `Unidad_03`. Contiene las primeras 7 prácticas enfocadas en operaciones aritméticas directas y asignaciones.
-
-### 🔀 Unidad 4 (Selectivas)
-Ubicada en la carpeta `Unidad_04`. Contiene las prácticas de la 8 a la 12, enfocadas en la toma de decisiones en lenguaje C empleando bloques `if`, `else if` y `else`.
-
----
-
 ## 🛠️ Herramientas Utilizadas
 
 * **PSeInt:** Para el desarrollo de la lógica inicial y pseudocódigo.
@@ -44,4 +33,3 @@ Ubicada en la carpeta `Unidad_04`. Contiene las prácticas de la 8 a la 12, enfo
 * **Git & GitHub:** Control de versiones y despliegue continuo en GitHub Pages.
 
 ---
-💡 *Nota: Las carpetas correspondientes a las unidades 5 y 6 se añadirán al repositorio con su respectiva documentación en cuanto se liberen los bloques prácticos.*

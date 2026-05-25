@@ -1,28 +1,34 @@
-# 📁 Unidad 2: Estructuras de Control Selectivas (Condicionales)
+# 📁 Unidad 4: Estructura de Control Selectiva: Simple, Doble, Múltiple
 
-En esta unidad se exploró la toma de decisiones en la programación mediante el uso de estructuras condicionales (`if`, `else if`, `else`), permitiendo que los programas ejecuten diferentes bloques de código según las condiciones evaluadas.
-
----
-
-## 🛠️ Prácticas Realizadas
-
-A continuación se listan los programas desarrollados. Puedes hacer clic en cualquiera de ellos para revisar el código fuente original:
-
-| Práctica | Descripción del Programa | Enlace al Código |
-| :--- | :--- | :---: |
-| **Práctica 8** | Introducción a la estructura selectiva simple. | [💻 Ver Código](./codigos/Practica8_selectiva_simple.c) |
-| **Práctica 9** | Implementación de bifurcación con selectiva doble (`if-else`). | [💻 Ver Código](./codigos/Practica9_selectiva_doble.c) |
-| **Práctica 10**| Algoritmo para determinar si un número ingresado es positivo o negativo. | [💻 Ver Código](./codigos/Practica10_positivo_o_negativo.c) |
-| **Práctica 11**| Algoritmo que evalúa si un número entero es par o impar (operador residuo `%`). | [💻 Ver Código](./codigos/Practica11_par_o_impar.c) |
-| **Práctica 12**| Estructuras selectivas anidadas para encontrar el mayor de tres números. | [💻 Ver Código](./codigos/Practica12_mayor_de_3_numeros.c) |
+Esta sección del proyecto abarca el estudio detallado y la implementación práctica de algoritmos de toma de decisiones en lenguaje C, permitiendo bifurcar el flujo del programa mediante condiciones lógicas complejas.
 
 ---
 
-## 📄 Documentación y Reportes Oficiales
+## 📚 Material Teórico y Entregables
 
-El análisis lógico, diagramas de flujo y las pruebas de escritorio correspondientes a estas soluciones condicionales se encuentran compilados en formato digital:
+De acuerdo con el plan de trabajo oficial de la unidad, se integraron los siguientes documentos y reportes técnicos dentro de la carpeta `docs`:
 
-* 📕 **Reporte Completo de Prácticas (8 al 12):** [Abrir Documento PDF](./docs/Practicas_8-12_documentacion.pdf)
+* 📄 **Estructura de Control Selectiva Simple y Doble:** [Abrir Reporte Técnico](./docs/Practicas_8-12_documentacion.pdf) 
+* 📄 **Estructura de Control Selectiva Múltiple:** [Abrir Reporte Técnico](./docs/Practicas_13-19_documentacion.pdf) 
+* 📊 **Infografía:** [Ver Infografía Analítica](./docs/Infografia.pdf) 
+* 📕 **Práctica 20 (Selectiva Anidada):** [Abrir Documentación](./docs/Practica_20_documentacion.pdf) 
 
 ---
-[⬅️ Volver al Inicio](../README.md)
+
+## 🛠️ Bloques de Prácticas Código Fuente
+
+El desarrollo práctico se encuentra modularizado en los siguientes subdirectorios especializados:
+
+### 🔀 [Bloque 1: Prácticas 8 a 12](./codigos/8-12)
+* **Enfoque:** Condicionales simples y dobles (`if` / `if-else`).
+* **Temas clave:** Validación de mayoría de edad, números positivos/negativos, evaluación de paridad y lógica básica de comparación.
+
+### 🎛️ [Bloque 2: Prácticas 13 a 19](./codigos/13-19)
+* **Enfoque:** Estructuras selectivas múltiples (`switch-case`).
+* **Temas clave:** Diseño de menús interactivos de operaciones aritméticas básicas, módulos de conversión de sistemas y cálculo de áreas geométricas.
+
+### 🔝 Práctica Avanzada: [Práctica 20 — Mayor de 4 Números](./codigos/Practica20_mayor_a_menor.c)
+* **Enfoque:** Estructura selectiva anidada a fondo para resolver problemas de ordenamiento y jerarquía numérica.
+
+---
+[⬅️ Volver al Índice Principal](../README.md)
